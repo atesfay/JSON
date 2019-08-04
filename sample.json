@@ -1,66 +1,20 @@
 [
     {
-        "Full_Name": "Abraham Tesfay",
-        "backgroun-img": "image.jpg",
-        "detial_info":[
-            {
-                "sub_Title":"Software Engineer",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "a_url_Link":"LEARN MORE"
-            },
-            {
-                "sub_Title":"Software Engineer",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "a_url_Link":"LEARN MORE"
-            },
-            {
-                "sub_Title":"Software Engineer",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "a_url_Link":"LEARN MORE"
-            }
-        ]
+        "username": "Abraham Tesfay",
+        "age": "32",
+        "cars": [
+    		{"name":"Ford", "models": "Fiesta"},
+    		{"name":"BMW", "models": "320"},
+    		{"name":"Fiat", "models": "500"}
+  		]
     },
     {
-        "Full_Name": "Cheng Chin Lim",
-        "backgroun-img": "image.jpg",
-        "detial_info":[
-            {
-                "sub_Title":"Software Engineer",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "a_url_Link":"LEARN More"
-            },
-            {
-                "sub_Title":"Software Engineer",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "a_url_Link":"LEARN MORE"
-            },
-            {
-                "sub_Title":"Software Engineer",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "a_url_Link":"LEARN MORE"
-            }
-        ]
-    },
-    {
-        "Full_Name": "Kim lang Hor",
-        "backgroun-img": "image.jpg",
-        "detial_info":[
-            {
-                "sub_Title":"Software Engineer",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "a_url_Link":"LEARN MORE"
-            },
-            {
-                "sub_Title":"iOS Engineer",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "a_url_Link":"LEARN MORE"
-            },
-            {
-                "sub_Title":"Software Engineer",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "a_url_Link":"LEARN MORE"
-            }
-        ]
-    },
-
+        "username": "Cheng Chin Lim",
+        "age": "22",
+ 		"cars": [
+    		{"name":"Ford", "models":"Focus"},
+    		{"name":"BMW", "models":"X3"},
+    		{"name":"Fiat", "models":"Panda"}
+  		]
+    }
 ]
