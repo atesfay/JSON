@@ -43,7 +43,7 @@
     },
     {
         "Full_Name": "Kim lang Hor",
-        "background_img": "image.jpg",
+        "backgroundImg": "image.jpg",
         "detial_info":[
             {
                 "sub_Title":"Software Engineer",
