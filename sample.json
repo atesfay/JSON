@@ -1,7 +1,7 @@
 [
     {
         "Full_Name": "Abraham Tesfay",
-        "background_img": "image.jpg",
+        "backgroundImg": "image.jpg",
         "detial_info":[
             {
                 "sub_Title":"Software Engineer",
@@ -22,7 +22,7 @@
     },
     {
         "Full_Name": "Cheng Chin Lim",
-        "background_img": "image.jpg",
+        "backgroundImg": "image.jpg",
         "detial_info":[
             {
                 "sub_Title":"Software Engineer",
